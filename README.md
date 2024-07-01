@@ -1,36 +1,30 @@
-<h2 align="center"> 💻 FullStack project using Node.js and React.js Mongo_BD</h2>
+<h2 align="center"> 💻 FullStack project using Node.js, React.js and Mongo_BD</h2>
 
-<h3 align="center">
-Starting from Scratch 🥰😍😍😍 </h3>
+<h3 align="center"> Starting from BackEnd 🥰😍😍😍 </h3>
 
 <h3 align="center"><img src="https://terminalroot.com.br/assets/img/js/nodejs.jpg" heigh="50%" width="50%"></h3>
 
-<h4>
-
 
   <h4 align="center"> Starting Mongo_BD</h4>
-    <img src="/backend_app/src/public/Proje_mongo.png" heigh="50%" width="50%">
-
-     <h4 align="center"> All_users Insomnia </h4>
-    <img src="/backend_app/src/public/all_users.png" heigh="50%" width="50%">
-
- <h4 align="center"> All_users Insomnia </h4>
-    <img src="/backend_app/src/public/all_users.png" heigh="50%" width="50%">
-
-     <h4 align="center"> All_users Insomnia </h4>
-    <img src="/backend_app/src/public/all_users.png" heigh="50%" width="50%">
+  <div align="center">
+    <img src="/backend_app/src/public/Proje_mongo.png" heigh="50%" width="50%"> </div>
     
-
-    <h4 align="center"> User Insomnia </h4>
-    <img src="/backend_app/src/public/user_insomnia.png" heigh="50%" width="50%">
-
-    <h4 align="center"> User_token Insomnia </h4>
-    <img src="/backend_app/src/public/user_token.png" heigh="50%" width="50%">
-
-    <h4 align="center"> User_VSCode </h4>
-    <img src="/backend_app/src/public/user_vs.png" heigh="50%" width="50%">
-
-</h4>
+   <h4 align="center"> All_users Insomnia </h4>
+     <div align="center">
+    <img src="/backend_app/src/public/all_users.png" heigh="50%" width="50%">     </div>
+    
+   <h4 align="center"> All_users Insomnia </h4>
+     <div align="center">
+    <img src="/backend_app/src/public/all_users.png" heigh="50%" width="50%"> </div>
+       
+   <h4 align="center"> User Insomnia </h4>
+     <div align="center">
+    <img src="/backend_app/src/public/user_insomnia.png" heigh="50%" width="50%">  </div>
+     <h4 align="center"> User_VSCode </h4>   <div align="center">
+    <img src="/backend_app/src/public/user_vs.png" heigh="50%" width="50%"> </div>
+       <h4 align="center"> User_token Insomnia </h4>
+      <div align="center">
+    <img src="/backend_app/src/public/user_token.png" heigh="50%" width="50%">     </div>
 
 
 
@@ -58,62 +52,76 @@ The project **-Starting from Scratch** was developed to show the development of 
     yarn dev
 ```
 
+<h3 align="center"> Starting from FrontEnd 🥰😍😍😍 </h3>
 
-
-<h1>
-    <img src="public/apresentacao.gif">
-    <img src="public/apresentacao.gif">
-
-    <img src="public/apresentacao.gif">
-
-    <img src="public/apresentacao.gif">
-
-</h1>
+  <h4 align="center"> Starting Login User</h4>
+   <div align="center">
+    <img src="frontend_app/src/public/Login.png" heigh="50%" width="50%">  </div>
+   <h4 align="center"> Register User </h4>
+      <div align="center">
+    <img src="/frontend_app/src/public/Register.png" heigh="50%" width="50%">  </div>
+       
 
 <p align="center">🎉
-  <a href="#-sobre"> Sobre </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre"> About </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-conceitos-ensinados">Conceitos ensinados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-material-de-apoio">Material de apoio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-como-baixar">Como baixar</a>
 </p>
 
-# 🔖 Sobre
+# 🔖 About
 
-Esse projeto foi criado como parte do desenvolvimento de um tutorial "Total Zero", ensinando como desenvolver uma aplicação no Frontend e Backend.
+This project was created as part of the development of a user login tutorial, teaching how to develop a Frontend and Backend application.
 
-## ✍🏻 Conceitos ensinados
+## ✍🏻 Concepts taught
 
-Durante o desenvolvimento, foi ensinado conceitos como Hooks, dentro do ReactJS, como criar um componente, estilização utilizando conceitos do CSS entre outros.
+During development, concepts such as Hooks were taught, within ReactJS, how to create a component, styling using CSS concepts, among others.
 
-## 🗂 Material de apoio
+## 🗂 Support material
 
 - [Create React App](https://github.com/facebook/create-react-app)
 - [ReactJS](https://pt-br.reactjs.org/)
 - [React Router DOM](https://reacttraining.com/react-router/web/api/Hooks/usehistory)
 - [FlexBox](https://origamid.com/projetos/flexbox-guia-completo/)
 - [Fontes Google](https://fonts.google.com/)
-- [Conceitos de Table Html](https://www.w3schools.com/tags/tag_th.asp)
+- [Table Html concepts](https://www.w3schools.com/tags/tag_th.asp)
 
-## 👍🏻 Como baixar
+## 👍🏻 How to download
 
 ```bash
 
-    // Clonar repositório
-    $ git clone https://github.com/danileao/total-zero-frontend
+    // Clone repository
+    $ git clone https://github.com/ludiemert/FullStack_Node_React_Mongo.git
 
-    // Acessar diretório
-    $ cd total-zero-frontend
+    // Access directory
+    $ cd FullStack_Node_React_Mongo
 
-    // Instalar dependências
+    // Install dependencies
     $ yarn
 
-    // Iniciar projeto
+    // Start project
     $ yarn start
 ```
 
 ---
-
-
-
 <h3>Desenvolvido 💜 por Luciana Diemert using the Rocketseat platform's library </h3>
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LucianaDiemert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianadiemert/)](https://www.linkedin.com/in/lucianadiemert/)
+
+#### Contact
+
+<img align="left" src="https://www.github.com/ludiemert.png?size=150">
+
+#### [**Luciana Diemert**](https://github.com/ludiemert)
+
+🛠 `Front-end` `Back-end`Developer Jr. <br>
+📍 São Jose dos Campos – SP - Brazil
+
+<a href="https://www.linkedin.com/in/lucianadiemert" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
+<a href="mailto:lucianadiemert@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" title="LuDiem#0654" alt="Discord Badge" height="25"></a>&nbsp;
+<a href="https://www.github.com/ludiemert" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
+
+<br clear="left"/>
+
 
